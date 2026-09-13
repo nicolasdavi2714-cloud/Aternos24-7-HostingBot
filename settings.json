@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Survivalcommod.aternos.me",
+    "ip": Survivalcommod.aternos.me ",
     "port": 64701,
     "version": "",
     "try-creative": false
